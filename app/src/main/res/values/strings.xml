@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="title_add_item">Add Item</string>
+    <string name="title_save_contact">Save Contact</string>
+    <string name="tv_title_new_age">Edad</string>
+    <string name="tv_title_new_weight">Peso</string>
+    <string name="tv_title_new_phone">Teléfono</string>
+    <string name="tv_title_new_address">Dirección</string>
+    <string name="tv_title_new_email">E-mail</string>
+    <string name="tittle_edit_contact">Edit Contact</string>
+    <string name="title_delete_contact">Delete Contact</string>
+    <string name="title_search_contact">Search Contact</string>
+</resources>
